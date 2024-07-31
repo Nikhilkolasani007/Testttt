@@ -1,0 +1,28 @@
+.slide-bar{
+    position: fixed;
+    top: 55px;
+    left: 0px;
+    background-color: white;
+    position: absolute;
+}
+.home-div{
+    border-bottom: 10px;
+}
+.home{
+    width: 25px;
+}
+.explore{
+    width: 25px;
+}
+.subscriptions{
+    width: 25px;
+}
+.originals{
+    width: 25px;
+}
+.youtube-music{
+    width: 25px;
+}
+.library{
+    width: 25px;
+}
